@@ -1,1 +1,1 @@
-# initai
+cuma bisa hello world ;)
